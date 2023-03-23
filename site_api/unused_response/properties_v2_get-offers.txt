@@ -1,0 +1,27 @@
+{
+    "data": {
+        "propertyOffers": {
+            "__typename": "OfferDetails",
+            "id": "9209612",
+            "soldOut": false,
+            "units": [],
+            "stickyBar": null,
+            "listings": [],
+            "categorizedListings": null,
+            "unitsCarousel": null,
+            "legalBanner": null,
+            "errorMessage": {
+                "__typename": "MessageResult",
+                "title": {
+                    "__typename": "MessagingResultTitle",
+                    "text": "Your dates need to occur after 2023-03-10. Try updating your dates to see prices for your trip.",
+                    "theme": null
+                }
+            },
+            "shoppingContext": null,
+            "propertyHighlightSection": null,
+            "singleUnitOffer": null,
+            "spaceDetails": null
+        }
+    }
+}
